@@ -1,5 +1,8 @@
 nitin;wq
 wagat
+<<<<<<< HEAD
 swagta
 acharya collage bengaluru
 swagat
+=======
+>>>>>>> 8df5e4c (new p1)
